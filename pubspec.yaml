@@ -1,0 +1,44 @@
+
+name: fitora
+description: "FITORA - Sports & Fitness Experience"
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+# Application version.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Cupertino icons for iOS-style interface.
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Recommended Flutter lint rules.
+  flutter_lints: ^6.0.0
+
+# Flutter application configuration.
+flutter:
+
+  # Material Design icons.
+  uses-material-design: true
+
+  # Application assets.
+  assets:
+    - assets/data/products.json
+    - assets/images/
+
+  # Custom fonts can be added here later.
+  # fonts:
+  #   - family: FitoraFont
+  #     fonts:
+  #       - asset: assets/fonts/Fitora-Regular.ttf

@@ -1,0 +1,58 @@
+
+[
+  {
+    "id": 1,
+    "name": "Performance Running",
+    "category": "Ayakkabı",
+    "description": "Hafif yapısı ve ergonomik tabanıyla koşu performansını destekleyen profesyonel spor ayakkabısı.",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Training Hoodie",
+    "category": "Giyim",
+    "description": "Antrenmanlarda konfor sağlayan modern ve nefes alabilen spor üstü.",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=800",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "name": "Pro Fitness Dumbbell",
+    "category": "Ekipman",
+    "description": "Ev ve salon antrenmanları için dayanıklı profesyonel dambıl.",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?w=800",
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "name": "Sport Bottle",
+    "category": "Aksesuar",
+    "description": "Antrenman boyunca su ihtiyacınızı karşılayan ergonomik spor matarası.",
+    "price": 349,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Elite Training Shoes",
+    "category": "Ayakkabı",
+    "description": "Yoğun antrenmanlar için tasarlanmış destekleyici spor ayakkabısı.",
+    "price": 3199,
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800",
+    "rating": 4.9
+  },
+  {
+    "id": 6,
+    "name": "Fitness Resistance Band",
+    "category": "Ekipman",
+    "description": "Farklı direnç seviyeleriyle fonksiyonel antrenman ekipmanı.",
+    "price": 499,
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07c?w=800",
+    "rating": 4.7
+  }
+]
+
